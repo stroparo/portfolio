@@ -2,7 +2,7 @@
 
 # Portfolio Back-End
 
-This project implements a CRUD API to store information about a portfolio's repositories with title, url and technologies for each. It also allows for 'likes'.
+This project implements a Web API to store information about a portfolio's repositories with title, url and technologies for each. It also allows for 'likes'.
 
 As this is just a sample it is simplified and information is stored only in memory (JavaScript array) as of this commit.
 
