@@ -1,3 +1,5 @@
+![GoStack](https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png)
+
 # Portfolio Back-End
 
 This project implements a CRUD API to store information about a portfolio's repositories with title, url and technologies for each.
